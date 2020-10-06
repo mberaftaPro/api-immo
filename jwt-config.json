@@ -1,0 +1,6 @@
+{
+  "jwt_secret": "immo_jwt",
+  "rt_secret": "immo_rt",
+  "jwt_life": 3600,
+  "rt_life": 86400
+}
